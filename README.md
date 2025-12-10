@@ -51,7 +51,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/DimitrisKoutselis/clean_architecture_demo)
+git clone https://github.com/DimitrisKoutselis/clean_architecture_demo
 cd clean_architecture_demo
 
 # Create virtual environment
